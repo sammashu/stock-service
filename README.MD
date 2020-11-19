@@ -1,6 +1,10 @@
 # stock with postgres
 demo stock market spring async service call
 
+first iteration could be better in testing side
+could add ui for uploading
+some validation and exception could be add when convert DTO and read data from file
+
 ## Requirements
 * Java 8
 * Apache Maven 3.5.0 or higher
