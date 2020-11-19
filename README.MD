@@ -54,7 +54,7 @@ java -jar target/stock-0.0.1-SNAPSHOT.jar
 - you need postman install 
 - or you can use swagger http://localhost:8080/swagger-ui/index.html and make request base on postman example
 (you cannot test the upload file with swagger)
-GET STOCK BY TICKET AND QUARTER
+GET STOCK BY TICKER AND QUARTER
 
 ![](images/getStock.png)
 
