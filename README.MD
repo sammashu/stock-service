@@ -48,6 +48,8 @@ java -jar target/urlshortener-service-0.0.1-SNAPSHOT.jar
 
 ## HOW to test
 
+(NOTE you need to upload file first if you stop the application and restart everything will be wipe out)
+
 (the dataset is in resources folder for upload purpose)
 - you need postman install 
 - or you can use swagger http://localhost:8080/swagger-ui/index.html and make request base on postman example
