@@ -62,5 +62,23 @@ UPLOAD
 ![](images/upload.png)
 
 INSERT NEW DATA
-
+example data for copy paste
+{
+    "quarter": "1",
+    "stock": "AA",
+    "date": "11/11/2011",
+    "open": "$13.44",
+    "high": "$21.22",
+    "low": "$11.11",
+    "close": "$11.12",
+    "volume": "234405",
+    "percent_change_price": "",
+    "percent_change_volume_over_last_wk": "",
+    "previous_weeks_volume": "",
+    "next_weeks_open": "",
+    "next_weeks_close": "",
+    "percent_change_next_weeks_price": "",
+    "days_to_next_dividend": "",
+    "percent_return_next_dividend": ""
+}
 ![](images/insert.png)
