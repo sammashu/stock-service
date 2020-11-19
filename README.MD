@@ -42,7 +42,7 @@ mvn clean install -DskipTests
 ```
 - Run the application
 ```
-java -jar target/urlshortener-service-0.0.1-SNAPSHOT.jar
+java -jar target/stock-service-0.0.1-SNAPSHOT.jar
 ```
 - Make sure your postgres is up
 
