@@ -63,6 +63,7 @@ UPLOAD
 
 INSERT NEW DATA
 example data for copy paste
+```json
 {
     "quarter": "1",
     "stock": "AA",
@@ -81,4 +82,5 @@ example data for copy paste
     "days_to_next_dividend": "",
     "percent_return_next_dividend": ""
 }
+```
 ![](images/insert.png)
